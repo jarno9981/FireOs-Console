@@ -1,0 +1,8 @@
+Void Update(args Uri, event e)
+{
+   Uri = ""; //note still place holder
+}
+If(Update != true){
+    DOWNLOAD(URI,START);
+}
+Start = "Update.sh";
