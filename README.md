@@ -16,6 +16,8 @@ A Os For compute module 4 with modern console design
 - [ ] Pcie support 
 - [ ] multi-core support
 - [ ] basic stuff
+- [ ] desktop environment 
+- [ ] sync with fireos -> information about this further in page
 
 # for firehand x1
 
@@ -27,3 +29,8 @@ Will have os installed FireOs-Console
 2 core / 1ghz
 512mb storage
 
+# sync
+
+Install apps remotely and uninstall
+From fireos desktop x64
+And share url with either os
