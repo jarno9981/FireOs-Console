@@ -13,6 +13,9 @@ A Os For compute module 4 with modern console design
 - [ ] usb-c to display & wireless display mirroring
 - [ ] costom kernel mappping & printing
 - [ ] settings app
+- [ ] Pcie support 
+- [ ] multi-core support
+- [ ] basic stuff
 
 # for firehand x1
 
