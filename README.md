@@ -13,6 +13,6 @@ A Os For compute module 4 with modern console design
 - [ ] usb-c to display & wireless display mirroring
 - [ ] costom kernel mappping & printing
 
-# for forehand x1
+# for firehand x1
 
 Will have os installed FireOs-Console
