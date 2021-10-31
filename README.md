@@ -12,7 +12,15 @@ A Os For compute module 4 with modern console design
 - [ ] wifi6 & wifi5, ethernet, bleutooth+multimode
 - [ ] usb-c to display & wireless display mirroring
 - [ ] costom kernel mappping & printing
+- [ ] settings app
 
 # for firehand x1
 
 Will have os installed FireOs-Console
+
+# recommend required 
+
+750mb ram | ddr3 / ddr4
+2 core / 1ghz
+512mb storage
+
