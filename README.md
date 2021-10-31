@@ -2,7 +2,7 @@
 A Os For compute module 4 with modern console design
 
 
-#support of arm64 & arm32
+# support of arm64 & arm32
 
 - [ ] 64 bit
 - [ ] h.265 / h.264 encoding, decoding & software
@@ -13,6 +13,6 @@ A Os For compute module 4 with modern console design
 - [ ] usb-c to display & wireless display mirroring
 - [ ] costom kernel mappping & printing
 
-#for forehand x1
+# for forehand x1
 
 Will have os installed FireOs-Console
